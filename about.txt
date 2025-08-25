@@ -1,3 +1,4 @@
 P.Sirisha
 Computer Science
-Github is used for storing the projects
+
+Github is used for storing the collection of projects
